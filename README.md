@@ -2,7 +2,7 @@
 
 This project is built in HTML and CSS languages. it takes student info and gives them the quiz.
 
-This mainly project focus on form Element.
+This project mainly focuses on form Element.
 
 ![quiz!](./image/quiz.JPG)
 
